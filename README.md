@@ -170,10 +170,10 @@ jupyter notebook notebooks/HR_Attrition_Notebook.ipynb
 
 ## 👨‍💻 Author
 
-**Rahul Sharma**
-B.Tech Computer Science | Data Analytics (Datamites)
-📧 rahulsharma@email.com
-🔗 [LinkedIn](https://linkedin.com/in/rahulsharma) | [GitHub](https://github.com/rahulsharma)
+**Bhoomika M P**
+B.E Computer Science | Data Analytics (Datamites)
+📧 bhoomikamp21@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/bhoomika-m-p-63b3b7219) | [GitHub](https://github.com/bhoomikamp)
 
 ---
 
